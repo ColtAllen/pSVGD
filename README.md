@@ -1,4 +1,6 @@
-Projected Stein variational methods for high-dimensional Bayesian inference 
+Projected Stein variational methods for high-dimensional Bayesian inference as proposed in the following paper:
+
+https://arxiv.org/abs/2002.03469
 
 The PDE model example is implemented in PDE_Models, using FEniCS as backend solver
 
